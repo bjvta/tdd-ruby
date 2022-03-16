@@ -1,7 +1,6 @@
 **/**/.DS_Store
 
 # Ignore bundler config.
-/.bundle
 .idea
 .vscode
 .vscode/
