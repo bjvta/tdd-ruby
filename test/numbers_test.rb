@@ -1,4 +1,3 @@
-gem 'minitest', '~> 5.14'
 require 'minitest/autorun'
 require_relative '../lib/numbers'
 

@@ -3,21 +3,21 @@
 
 ## Requirements
 
-- Ruby 
+- Ruby
 - Minitest
 
 ## Installation
 
-git clone git@github.com:bjvta/tdd-ruby.git
+`git clone git@github.com:bjvta/tdd-ruby.git`
 
+`sudo gem install bundler:2.3.8`
 
-```bundle install```
+`bundle install --local`
 
 ## Running tests
 
 
-```ruby test/numbers_test.rb```
+`ruby test/numbers_test.rb`
 
 
 Happy coding!
-

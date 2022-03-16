@@ -5,6 +5,7 @@ GEM
 
 PLATFORMS
   -darwin-21
+  universal-darwin-20
 
 DEPENDENCIES
   minitest (~> 5.14)
